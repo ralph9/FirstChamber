@@ -1,0 +1,34 @@
+Text elements:
+    headers OK
+    paragraphs OK
+    links OK
+    text formattings (bold, italic etc.) OK
+Graphics:
+    with width and height attributes OK
+    with alternative texts OK
+Lists:
+    ordered list OK
+    unordered list OK
+    definition list OK
+    with nesting when needed OK
+Tables:
+    with cellpadding and cellspacing (Kinda OK)
+    with spanning (Colspanning OK)
+Links:
+    To another page  OK
+    To bookmark anchors OK
+    To download a file OK (kinda)
+    To send email OK
+    On a picture OK
+    With different target attribute OK (_blank)
+Forms:
+    With fieldsets, legend, labels OK
+    With inputs (text, radio, checkbox), select field (multiple and single choice) OK
+    With textarea OK
+    With buttons to submit and clear the form OK (no functionality)
+Head elements:
+    All needed tags for SEO (title, description, base, meta elements)
+    OK title
+    OK description
+    OK meta keywords
+    OK meta author
